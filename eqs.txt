@@ -1,0 +1,7 @@
+\begin{equation*}
+(1+a)\dot{\theta_1} + ab(\ddot{\theta_2} \cos{(\theta_2-\theta_1)} - \dot{\theta_2}^2 \sin{(\theta_2 - \theta_1)}) + (1+a) \sin{\theta_1}
+\end{equation*}
+
+\begin{equation*}
+ab^2 \ddot{\theta_2}^2 + ab(\ddot{\theta_1} \cos{(\theta_2-\theta_1)} - \dot{\theta_1}^2 \sin{(\theta_2 - \theta_1)}) + ab \sin{\theta_2} = 0
+\end{equation*}
